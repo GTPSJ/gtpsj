@@ -1,7 +1,7 @@
 ### Olá, me chamo Gleiser Tarine é um prazer te ter por aqui!!!💫
 
 - 🌱 Atualmente estou estudando salesforce.
-- 👩‍💻 Procuro colaboradores em back end, front end e SalesForce.
+- 👩‍💻 Procuro colaboradores em Back-End, Front-End e principalmente SalesForce.
 - 📍 Você pode me encontrar pelo linkedin ou trailhead: Gleiser Tarine Junker.
 - 💬 A disposição para ajudar no que conseguir.
 
